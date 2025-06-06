@@ -1,1 +1,3 @@
 # GenAIFashionApp
+
+Welcome to the GenAIFashionApp! This app was created by @petewoo908 and myself for the Gen AI - Coding Intensive course in Cal Poly's MSBA program. The app utilizes clothing images from Neiman Marcus and Old Navy, a Python application that uses cosine similarity, Cohere, Amazon Bedrock, and Claude 3 Sonnet to create men's fashion recommendations and celebrity fashion inspiration based off of user input. The user interacts with this application in Streamlit for an easy-to-use interface. Please see the above YouTube video that we made outlining the process and application of this AI Fashion Recommender prototype.
